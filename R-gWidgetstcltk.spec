@@ -9,8 +9,9 @@ Group:            Sciences/Mathematics
 License:          GPL (>= 2)
 URL:              http://cran.r-project.org/web/packages/%{packname}/index.html
 Source0:          http://cran.r-project.org/src/contrib/%{packname}_0.0-48.tar.gz
-Requires:         R-methods R-gWidgets R-tcltk R-tcltk2 R-digest 
-BuildRequires:    R-devel Rmath-devel texlive-collection-latex R-methods R-gWidgets R-tcltk R-tcltk2 R-digest
+Requires:         R-methods R-gWidgets R-tcltk R-tcltk2 R-digest
+BuildRequires:    R-devel Rmath-devel texlive-collection-latex
+BuildRequires:    R-methods R-gWidgets R-tcltk R-tcltk2 R-digest
 BuildRequires:    x11-server-xvfb
 
 %description

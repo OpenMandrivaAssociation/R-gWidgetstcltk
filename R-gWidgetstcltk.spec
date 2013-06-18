@@ -5,7 +5,7 @@
 
 Name:             R-%{packname}
 Version:          0.0.54
-Release:          1
+Release:          2
 Summary:          Toolkit implementation of gWidgets for tcltk package
 Group:            Sciences/Mathematics
 License:          GPL (>= 2)

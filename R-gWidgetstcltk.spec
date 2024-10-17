@@ -9,7 +9,7 @@ Release:          2
 Summary:          Toolkit implementation of gWidgets for tcltk package
 Group:            Sciences/Mathematics
 License:          GPL (>= 2)
-URL:              http://cran.r-project.org/web/packages/%{packname}/index.html
+URL:              https://cran.r-project.org/web/packages/%{packname}/index.html
 Source0:          http://cran.r-project.org/src/contrib/gWidgetstcltk_0.0-54.tar.gz
 Requires:         R-methods R-gWidgets R-tcltk R-tcltk2 R-digest
 BuildRequires:    R-devel Rmath-devel texlive-collection-latex
